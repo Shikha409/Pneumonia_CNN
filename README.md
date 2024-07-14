@@ -39,7 +39,7 @@ The model's performance is evaluated using various metrics such as accuracy, pre
 # # 1 not efected
 If the detection result is negative, it means there is no effect in the X-rays. 
 like this 
-![detection result__result](https://github.com/user-attachments/assets/15b6d6a4-c732-4c98-a1bb-870542870ea3)
+![detection result3__result](https://github.com/user-attachments/assets/3c44ef1b-fee9-4629-ac91-24ac3e199c35)
 
 # #2 efected by pneumonia
 If the detection result is positive, it means there is a pneumonia effect in the X-rays.
