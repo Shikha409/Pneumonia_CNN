@@ -1,7 +1,7 @@
-# Pneumonia Detection using CNN
+# Pneumonia Detection using RESNET.50
 
 ## Description
-This project utilizes Convolutional Neural Networks (CNNs) for the detection of pneumonia from chest X-ray images. The model aims to assist in the healthcare industry, particularly in the radiological department, by providing an automated tool for accurate and efficient pneumonia diagnosis.
+This project utilizes RESNET.50 for the detection of pneumonia from chest X-ray images. The model aims to assist in the healthcare industry, particularly in the radiological department, by providing an automated tool for accurate and efficient pneumonia diagnosis.
 
 ## Installation
 To run this project, you need to have Python installed along with the following libraries:
@@ -19,15 +19,15 @@ You can install the necessary packages using:
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone <[repository_url](https://github.com/Shikha409/Pneumonia_CNN/)>
+    git clone <(https://github.com/Shikha409/Pneumonia_RESNET.50/)>
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Pneumonia_CNN
+    cd Pneumonia_RESNET.50
     ```
 3. Run the Jupyter Notebook to train and test the model:
     ```bash
-    jupyter notebook Pneumonia_CNN.ipynb
+    jupyter notebook Pneumonia_RESNET.50.ipynb
     ```
 
 ## Results
