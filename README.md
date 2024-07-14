@@ -15,7 +15,7 @@ To run this project, you need to have Python installed along with the following 
 
 You can install the necessary packages using:
 ```bash
-pip install tensorflow keras opencv-python numpy matplotlib
+!pip install tensorflow keras opencv-python numpy matplotlib
 ```
 
 ## Usage
