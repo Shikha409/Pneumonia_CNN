@@ -35,6 +35,18 @@ pip install tensorflow keras opencv-python numpy matplotlib
 ## Results
 The model's performance is evaluated using various metrics such as accuracy, precision, recall, and F1-score. Detailed results and visualizations can be found within the notebook.
 
+# # RESULTS 
+# # 1 not efected
+If the detection result is negative, it means there is no effect in the X-rays. 
+like this 
+![detection result__result](https://github.com/user-attachments/assets/15b6d6a4-c732-4c98-a1bb-870542870ea3)
+
+# #2 efected by pneumonia
+If the detection result is positive, it means there is a pneumonia effect in the X-rays.
+like this 
+![detection result2__result](https://github.com/user-attachments/assets/e1660bf7-6a37-4e18-bd3e-2eb15deeffc1)
+
+
 ## Conclusion
 This model can be deployed to X-ray machines in the radiological department to assist radiologists in predicting pneumonia from chest X-ray images accurately and efficiently.
 
