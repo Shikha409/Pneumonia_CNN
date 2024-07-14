@@ -1,5 +1,3 @@
-# Pneumonia_CNN 
-
 # Pneumonia Detection using CNN
 
 ## Description
